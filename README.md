@@ -1,4 +1,4 @@
-# recursive_backtracker
+# recursive-backtracker
 Recursive backtracker alg. w/ adjustable cap, written (safely) in Rust
 
 ## Setup
