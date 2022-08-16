@@ -1,5 +1,6 @@
-# recursive-backtracker
-Recursive backtracker alg. w/ adjustable cap, written (safely) in Rust
+# recursive-carver
+Recursive maze carver using recursive Depth-First-Search algorithm
+- w/ adjustable cap, written (safely) in Rust
 
 ## Setup
 Simply add the RecursiveBacktracker struct, impl blocks, and constants to whatever project you're using.
